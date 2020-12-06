@@ -6,7 +6,7 @@
 
 ## Git
 
-![Git](/images/Git.png "Git")
+![Git](/images/Git.png "git")
 
 ## CommandPromt
 
